@@ -7,6 +7,8 @@ In here I will be documenting my step-by-step process to learning mobile develop
 
 After spending about a full day researching where to start, I ended up starting off with the **[100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)** course by Paul Hudson. 
 
+>Note : Images marked _Challenge_ show challenges from the course with no instructions, I'm proud of some of these!
+
 ---
 
 _Nov 6th - Nov 12th, 2022_
@@ -35,7 +37,9 @@ I coded an app called **WeSplit** along the instructor, which calculates how muc
 
 _Nov 13th, 2022_
 
-I started off with Day 19 of the course, which challenged us to make a similar app to what we had been building the day before, but to convert units. I chose length units. 
+I started off with Day 19 of the course, which challenged us to make a similar app to what we had been building the day before, but to convert units. I chose length units.
+
+> _Challenge_
 
 <img width="150" alt="image" src="https://user-images.githubusercontent.com/99513734/201604585-b7824fea-0312-4dcf-a3ff-1719004af996.png">
 
@@ -47,7 +51,5 @@ I then moved on with day 20, in which I learned the following:
 - Showing alert messages
 
 ---
-
-_Nov 14th, 2022_
 
 
