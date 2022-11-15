@@ -52,4 +52,17 @@ I then moved on with day 20, in which I learned the following:
 
 ---
 
+_Nov 14th, 2022_
+
+Mondays are super busy with class and homework, so started a bit late! Only managed to get through days 22 and 23 of the course.
+
+It was pretty much a codealong to build a "Guess the Flag" game with a few challenges for us at the end. Didn't learn anything new, but strengthened my knowledge of previous subjects. This lesson helped me get a bit more comfortable with building a nice layout.
+
+Definitely very different from building layouts for web. I'm not sure whether I prefer one or the other yet, as I am still only starting to learn SwiftUI, but similarities between both ways are near to none.
+
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/99513734/201862448-fb1d2f9a-795a-4e59-b2fa-3a8282197ab1.png"> <img width="150" alt="image" src="https://user-images.githubusercontent.com/99513734/201862580-57197caf-856b-4859-86bb-e2eb683e43e2.png">
+
+---
+
+
 
