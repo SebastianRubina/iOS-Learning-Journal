@@ -64,5 +64,25 @@ Definitely very different from building layouts for web. I'm not sure whether I 
 
 ---
 
+_Nov 17th, 2022_
+
+Had to take a couple of days off due to homework, but I'm back. Today I managed to get through days 23, 24 and 25.
+
+Days 23 and 24 mostly taught me about how Views and Modifiers work behind the scenes, why we use the keyword `some` on `some View`, and how to create custom modifiers of my own. There was no project on these 2 days. 
+
+Day 25 was a whole different story, I had to build an app from scratch. I really enjoyed this one, I basically had to build a Rock, Paper, Scissors app but with a twist. You get the Computer's pick and also what your goal for that turn is (to win or to lose), and based on that you make a move. 
+
+I had lots of fun doing this one and designing it. I have never been good at the design side of things, but I believe that with time and practice I will start to get better at it. 
+
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/99513734/202654657-4b6231f0-015c-4de6-b427-2265100dd29a.png"> <img width="150" alt="image" src="https://user-images.githubusercontent.com/99513734/202654702-c3cfa2f6-bf86-49bb-ace4-f56574aaf660.png">
+
+---
+
+
+
+
+
+
+
 
 
