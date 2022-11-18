@@ -54,7 +54,7 @@ I then moved on with day 20, in which I learned the following:
 
 _Nov 14th, 2022_
 
-Mondays are super busy with class and homework, so started a bit late! Only managed to get through days 22 and 23 of the course.
+Mondays are super busy with class and homework, so started a bit late! Only managed to get through days 21 and 22 of the course.
 
 It was pretty much a codealong to build a "Guess the Flag" game with a few challenges for us at the end. Didn't learn anything new, but strengthened my knowledge of previous subjects. This lesson helped me get a bit more comfortable with building a nice layout.
 
