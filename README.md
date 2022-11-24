@@ -74,6 +74,23 @@ I had lots of fun doing this one and designing it. I have never been good at the
 
 ---
 
+_Nov 23rd - 24th, 2022_
+
+Finished days 26, 27, and 28. Mainly focused on the following topics:
+- Using CoreML to make predictions with Machine Learning based on data imported on from a .csv file
+- Working with dates
+
+The project we worked on was an app called BetterRest, that based on a user's on a desired wakeup time, desired amount of sleep, and daily cups of coffee intake, would predict an approximate time at which they should wake up.
+
+Found CoreML really simple to use, Apple's drag and drop implementation makes it nice and a breeze to use in your apps, though it had me wondering if it was this easy in the real world or just in this specific example?
+
+The app originally had a `calculate` button up top and would show an alert, but as a challenge, had to change it so there was no button and it would automatically update in real time as the user made changes in the form, and also instead of showing an alert every time, a big text would just show the time.
+
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/99513734/203713748-3f642e63-15a8-44ea-956d-765734c7e8b3.png"> <img width="150" alt="image" src="https://user-images.githubusercontent.com/99513734/203713904-699b287c-613b-47a3-aa4c-233774cec1e2.png">
+
+
+
+
 
 
 
